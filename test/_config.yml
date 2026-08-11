@@ -9,6 +9,13 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+#plugins:
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-gist
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Minimal Mistakes"
