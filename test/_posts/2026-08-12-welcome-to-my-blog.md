@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: single
 title: "Learning "
-permalink: /about/
+excerpt: "A short preview text showing what I am learning."
 ---
 
